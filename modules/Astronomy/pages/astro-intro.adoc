@@ -1,6 +1,8 @@
 = Introduction to Astronomy
 
-.The Great orion Nebula, by Jcayouette
-image:m42.jpg[1920,1080]
+
+
+image:m42.jpg[]
+.The Great orion Nebula
 
 Some text....

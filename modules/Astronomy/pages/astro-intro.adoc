@@ -1,1 +1,5 @@
 = Introduction to Astronomy
+
+image:m42.jpg[The Great Orion Nebula (M42)]
+
+Some text....

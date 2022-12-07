@@ -9,9 +9,10 @@ asciidoc:
     
 nav:
 - modules/ROOT/nav.adoc
-- modules/Astronomy/nav.adoc
+- modules/History/nav.adoc
 - modules/Biology/nav.adoc
-- modules/Chemistry/nav.adoc
 - modules/Geology/nav.adoc
+- modules/Chemistry/nav.adoc
+- modules/Astronomy/nav.adoc
 - modules/Information-Science/nav.adoc
 - modules/Morality/nav.adoc

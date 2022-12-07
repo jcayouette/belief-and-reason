@@ -1,0 +1,3 @@
+= Welcome to belief and reason
+
+A place for storing collected knowledge.

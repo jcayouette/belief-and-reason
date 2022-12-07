@@ -1,8 +1,7 @@
 = Introduction to Astronomy
 
 
-
-image:m42.jpg[]
-.The Great orion Nebula
+.The great orion nebula
+image:m42.jpg[caption='The Great orion Nebula']
 
 Some text....

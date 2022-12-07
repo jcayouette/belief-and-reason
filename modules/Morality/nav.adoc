@@ -1,1 +1,1 @@
-* xref:morality-intro.adoc[Introduction to Morality]
+* xref:morality-intro.adoc[Morality]

@@ -1,1 +1,1 @@
-* xref:astro-intro.adoc[Introduction to Astronomy]
+* xref:astro-intro.adoc[Astronomy]

@@ -1,1 +1,1 @@
-* xref:chem-intro.adoc[Introduction to Chemistry]
+* xref:chem-intro.adoc[Chemistry]

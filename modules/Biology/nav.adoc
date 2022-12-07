@@ -1,1 +1,1 @@
-* xref:bio-intro.adoc[Introduction to Biology]
+* xref:bio-intro.adoc[Biology]

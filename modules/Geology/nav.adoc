@@ -1,1 +1,1 @@
-* geo-intro.adoc[Introduction to Geology]
+* xref:geo-intro.adoc[Geology]

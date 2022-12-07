@@ -1,5 +1,5 @@
 name: startpage
-title: Welcome
+title: Home
 version: 0.1
 start_page: index.adoc
 asciidoc:

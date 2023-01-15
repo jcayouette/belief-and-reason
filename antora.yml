@@ -9,10 +9,20 @@ asciidoc:
     
 nav:
 - modules/ROOT/nav.adoc
-- modules/History/nav.adoc
-- modules/Biology/nav.adoc
-- modules/Geology/nav.adoc
-- modules/Chemistry/nav.adoc
-- modules/Astronomy/nav.adoc
-- modules/Information-Science/nav.adoc
-- modules/Morality/nav.adoc
+- modules/archaeology/nav.adoc
+- modules/astronomy/nav.adoc
+- modules/biology/nav.adoc
+- modules/chemistry/nav.adoc
+- modules/geology/nav.adoc
+- modules/history/nav.adoc
+- modules/information-Science/nav.adoc
+- modules/logical-fallacies/nav.adc
+- modules/morality/nav.adoc
+
+
+
+
+
+
+
+

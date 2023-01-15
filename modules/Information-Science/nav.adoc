@@ -1,1 +1,0 @@
-* xref:info-science-intro.adoc[Information Science]

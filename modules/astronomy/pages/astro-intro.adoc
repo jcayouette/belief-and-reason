@@ -1,0 +1,10 @@
+= Introduction to Astronomy
+
+
+.The great orion nebula
+image:m42.jpg[caption='The Great orion Nebula']
+
+
+== Nebula
+
+Some text....

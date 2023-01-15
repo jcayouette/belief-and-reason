@@ -1,1 +1,0 @@
-* xref:astro-intro.adoc[Astronomy]

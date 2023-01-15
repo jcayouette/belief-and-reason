@@ -1,1 +1,0 @@
-* xref:geo-intro.adoc[Geology]

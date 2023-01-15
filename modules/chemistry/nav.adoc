@@ -1,2 +1,2 @@
 * xref:chem-intro.adoc[Chemical Evidence]
-** xref:origin-of-life.adoc[Origin of Life]
+** xref:ool/origin-of-life.adoc[Origin of Life]

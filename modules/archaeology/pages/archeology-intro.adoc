@@ -1,10 +1,3 @@
-= Introduction to Astronomy
+= Introduction to Archeology
 
 
-.The great orion nebula
-image:m42.jpg[caption='The Great orion Nebula']
-
-
-== Nebula
-
-Some text....

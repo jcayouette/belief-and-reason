@@ -1,7 +1,7 @@
 = Introduction to Astronomy
 
 
-.The great orion nebula
+.The great orion nebula (Messier 42, NGC 1976)
 [#image-m42, link=https://www.astrobin.com/full/5hcwki/0/]
 image::m42.jpg[M42, window=_blank, 1024,768]
 

@@ -2,7 +2,8 @@
 
 
 .The great orion nebula
-image:m42.jpg[caption='The Great orion Nebula']
+[#image-m42, link=https://www.facebook.com/]
+image::m42.jpg[M42, 400,300]
 
 
 == Nebula

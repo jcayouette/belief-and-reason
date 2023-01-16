@@ -2,8 +2,8 @@
 
 
 .The great orion nebula
-[#image-m42, link=https://www.facebook.com/]
-image::m42.jpg[M42, 1920,1080]
+[#image-m42, link=https://www.astrobin.com/full/5hcwki/0/]
+image::m42.jpg[M42, window=_blank, 1024,768]
 
 
 == Nebula
